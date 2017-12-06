@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "My implementation of http://adventofcode.com/2017 in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ticidesign/adventofcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ticidesign/adventofcode/issues"
+  },
+  "homepage": "https://github.com/ticidesign/adventofcode#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
