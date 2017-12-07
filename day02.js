@@ -29,7 +29,7 @@ function corruptionChecksum(input){
     console.log(row, i);
     sum =+ corruptionChecksumPerLine(row);
   }
-  console.log(sum);
+  // console.log(sum);
   return sum;
 }
 
